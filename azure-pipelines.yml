@@ -15,7 +15,7 @@ variables:
   webAppName: 'demonodeapp20'
 
   # Environment name
-  environmentName: 'demonodeapp20_group'
+  environmentName: 'demonodeapp20'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
