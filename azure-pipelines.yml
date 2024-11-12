@@ -12,10 +12,10 @@ variables:
   azureSubscription: '86d7b0b1-27b6-4796-9f04-3469d01e8389'
 
   # Web app name
-  webAppName: 'demonodeapp20'
+  webAppName: 'demonodeapp004'
 
   # Environment name
-  environmentName: 'demonodeapp20'
+  environmentName: 'demonodeapp004'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
